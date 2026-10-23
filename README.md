@@ -24,7 +24,3 @@ Autenticação com JWT, CRUD de receitas e boas práticas de API.
 - LinkedIn: https://www.linkedin.com/in/patrick-rodrigues-130333446
 - E-mail: pkscriptrodrigues@gmail.com
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatrickRDev/PatrickRDev/output/github-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/PatrickRDev/PatrickRDev/output/github-snake.svg">
-</picture>
