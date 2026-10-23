@@ -15,6 +15,7 @@ Formado em Análise e Desenvolvimento de Sistemas, focado em **desenvolvimento b
 
 **[MyRecipeBook API](https://github.com/PatrickRDev/recipebook-api)**: API REST em .NET 10 com DDD, Entity Framework Core + MySQL, testes de unidade e de integração (Testcontainers) e pipeline de CI no GitHub Actions.
 
+
 ## 📚 Estudando agora
 
 Autenticação com JWT, CRUD de receitas e boas práticas de API.
@@ -23,4 +24,9 @@ Autenticação com JWT, CRUD de receitas e boas práticas de API.
 
 - LinkedIn: https://www.linkedin.com/in/patrick-rodrigues-130333446
 - E-mail: pkscriptrodrigues@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatrickRDev/PatrickRDev/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/PatrickRDev/PatrickRDev/output/github-snake.svg">
+</picture>
 
